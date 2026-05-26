@@ -4,4 +4,4 @@ YouGov interviewed 1244 registered voters who were then matched down to a sample
 
 The assignment of respondents in between-subjects framing questions was validated ex post using the MLbalance package (https://github.com/CetiAlphaFive/MLbalance) to ensure demographic randomization at the level of p>0.05.
 
-This survey was supplemented by two focus groups conducted by Eschelon Insights in Atlanta, GA on April 7, 2026. One group consisted of Republican and Republican-leaning voters; the other was made up of Democratic and Democratic-leaning voters. These groups each met for 90 minutes to explore voters’ views on the economy, economic priorities and trade-oﬀs, key policy issues, and President Reagan’s economic approach.
+This survey was supplemented by two focus groups conducted by Echelon Insights in Atlanta, GA on April 7, 2026. One group consisted of Republican and Republican-leaning voters; the other was made up of Democratic and Democratic-leaning voters. These groups each met for 90 minutes to explore voters’ views on the economy, economic priorities and trade-oﬀs, key policy issues, and President Reagan’s economic approach.
